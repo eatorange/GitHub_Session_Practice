@@ -1,3 +1,5 @@
+* Master branch
+
 clear all
 set more off
 sysuse auto
