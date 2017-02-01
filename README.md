@@ -6,3 +6,4 @@ Pichu is the cutest pokemon
 I wanna go to 3K MMR
 
 Added completely new line 1
+Added completely new line 2
