@@ -5,3 +5,5 @@ No more video games
 
 Add line 1
 Add line 2
+
+A trip to Germany!
