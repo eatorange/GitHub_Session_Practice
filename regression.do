@@ -4,3 +4,5 @@ sysuse auto
 reg price mpg
 
 reg price mpg, robust
+
+* Experimental
